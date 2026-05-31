@@ -24,7 +24,7 @@
 
 <p style="text-align: justify;">
   
-Hi, I'm **Alfriza** (you can call me **Iza**), a passionate web developer from **Bogor, West Java, Indonesia** 🇮🇩. Currently studying **Software Engineering** at [SMK Amaliah Ciawi](https://smkamaliah.sch.id/).
+Hi, I'm **Alfriza** (you can call me **Iza**), a passionate web developer from **Bogor, West Java, Indonesia** 🇮🇩. Currently studying **Computer Science** at [Universitas Pendidikan Indonesia](https://www.upi.edu/en/).
 
 Since childhood, I've been fascinated by gaming 🎮, which sparked my curiosity about how games and applications are built. This led me to explore programming and eventually fall in love with web development 💻.
 
@@ -87,7 +87,7 @@ Since childhood, I've been fascinated by gaming 🎮, which sparked my curiosity
 ```javascript
 const alfriza = {
     location: "Bogor, Indonesia 🇮🇩",
-    education: "SMK Amaliah Ciawi - Software Engineering",
+    education: ["Universitas Pendidikan Indonesia - Computer Science", "SMK Amaliah Ciawi - Software Engineering"],
     currentlyLearning: ["Full-Stack Development", "Advanced Laravel", "React & Next.js"],
     hobbies: ["Gaming 🎮", "Coding 💻", "Exploring New Technologies 🚀"],
     askMeAbout: ["Web Development", "Laravel"],
