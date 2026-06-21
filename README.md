@@ -24,7 +24,7 @@
 
 <p style="text-align: justify;">
   
-Hi, I'm **Alfriza** (you can call me **Iza**), a passionate web developer from **Bogor, West Java, Indonesia** 🇮🇩. Graduate of **Software Engineering** at [SMK Amaliah 1 Ciawi](https://www.smkamaliah.sch.id/).
+Hi, I'm **Alfriza** (you can call me **Iza**), a passionate web developer from **Bogor, West Java, Indonesia** 🇮🇩. Currently studying **Computer Science** at [Universitas Pendidikan Indonesia](https://www.upi.edu/id).
 
 Since childhood, I've been fascinated by gaming 🎮, which sparked my curiosity about how games and applications are built. This led me to explore programming and eventually fall in love with web development 💻.
 
@@ -33,7 +33,7 @@ Since childhood, I've been fascinated by gaming 🎮, which sparked my curiosity
 - 🌱 Currently learning **full-stack development**
 - 💼 Experienced in **Laravel** and modern web technologies
 - 🎯 Goal: Becoming a proficient **Full-Stack Developer**
-- 🎮 Hobbies: **Gaming** and exploring new things
+- 🎮 Hobbies: **Gaming**, **Music**, and exploring new things
 - 📍 Based in **Bogor, Indonesia**
 
 <br clear="right"/>
@@ -87,9 +87,12 @@ Since childhood, I've been fascinated by gaming 🎮, which sparked my curiosity
 ```javascript
 const alfriza = {
     location: "Bogor, Indonesia 🇮🇩",
-    education: "SMK Amaliah 1 Ciawi - Software Engineering",
-    currentlyLearning: ["Full-Stack Development", "Advanced Laravel", "React & Next.js"],
-    hobbies: ["Gaming 🎮", "Coding 💻", "Exploring New Technologies 🚀"],
+    education: [
+        "Universitas Pendidikan Indonesia - Computer Science",
+        "SMK Amaliah 1 Ciawi - Software Engineering"
+    ],
+    currentlyLearning: ["Full-Stack Development", "Data Structures & Algorithms"],
+    hobbies: ["Gaming 🎮", "Music 🎧", "Exploring New Technologies 🚀"],
     askMeAbout: ["Web Development", "Laravel"],
     funFact: "Started coding because of gaming passion! 🎮➡️💻",
     availableForHire: true
@@ -104,10 +107,6 @@ const alfriza = {
   
   <a href="https://www.linkedin.com/in/alfriza-akhmad-rahadi-a22896343/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://wa.me/6289670336495">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   
   <a href="https://www.instagram.com/alfreezzz_/">
