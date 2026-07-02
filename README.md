@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=60&lines=I'm+Alfriza+Akhmad+Rahadi;Full-Stack+Developer+Journey" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=60&lines=I'm+Alfriza+Akhmad+Rahadi;Full-Stack+Developer" alt="Typing SVG" />
   </h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Web_Developer-aspiring_Full--Stack-6366F1?style=for-the-badge&logo=code&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-Back--end_Focused-6366F1?style=for-the-badge&logo=code&logoColor=white" alt="Status"/>
   </p>
   
   <p>
@@ -113,7 +113,7 @@ const alfriza = {
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <a href="mailto:roshinante678@gmail.com">
+  <a href="mailto:alfrizaakhmadr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
